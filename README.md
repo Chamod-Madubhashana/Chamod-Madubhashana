@@ -20,9 +20,6 @@
 - ⛓️ Passionate about **Blockchain** and its potential in supply chain transparency
 - 📦 Interested in **Supply Chain Innovation** and smart logistics systems
 - 🌱 Always learning and experimenting with **AI + IoT + Engineering solutions**
-- 🏆 Finalist at **ModelX 2025** national AI/ML hackathon
-- 🎯 Served as **Chairperson of DEV{thon} 3.0** — nationwide hackathon with 200+ teams from 22 universities
-- 🌐 Core Committee Member — **CILT Sri Lanka Next Generation (2026/27)**
 - 📫 Reach me at **chamodmadubhashana1@gmail.com**
 - ⚡ Fun fact: *Call me Madu!*
 
