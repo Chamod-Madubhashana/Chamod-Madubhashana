@@ -37,7 +37,7 @@
 <p align="left"><a href="https://www.linkedin.com/in/chamod-madubhashana-011112370" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a> <a href="mailto:chamodmadubhashana1@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40"/></a> <a href="https://github.com/Chamod-Madubhashana" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40"/></a></p>
 ---
 
----
+
 
 ### 📊 GitHub Stats
 
